@@ -1,5 +1,8 @@
 apply plugin: 'java-library'
 apply plugin: 'kotlin'
+apply plugin: 'maven'
+
+group = "com.github.mirceabucerzan"
 
 dependencies {
     def kotlin_version = '1.3.61'
