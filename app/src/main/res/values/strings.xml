@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Kotlin Machine Example</string>
+
+    <string name="label_close">Close</string>
+    <string name="label_lock">Lock</string>
+    <string name="label_open">Open</string>
+    <string name="label_unlock">Unlock</string>
+    <string name="label_strike_lock">Strike lock</string>
+    <string name="state_intro_text">The door is:</string>
+    <string name="state_open">open</string>
+    <string name="state_closed">closed</string>
+    <string name="state_locked">locked</string>
+    <string name="state_stuck">stuck</string>
 </resources>
